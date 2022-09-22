@@ -1,7 +1,5 @@
 void setup()
 {
-  fill(0, 0, 0);
-  text("Left Click on The Screen To Make A Lightning Bolt", 60,20);
   size(400,400);
 }
 
@@ -18,8 +16,8 @@ int g = (int)(Math.random()*256);
 int b = (int)(Math.random()*256);
 
 void draw() {
-  //lightning();
-  //lightning2();
+  fill(0, 0, 0);
+  text("Left Click on The Screen To Make A Lightning Bolt", 60,20);
 } //draw function
 
 void mousePressed()

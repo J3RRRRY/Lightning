@@ -1,7 +1,7 @@
 void setup()
 {
   fill(0, 0, 0);
-  text("Left Click on The Screen To Make A Lightning Bolt", 59,20);
+  text("Left Click on The Screen To Make A Lightning Bolt", 60,20);
   size(400,400);
 }
 
